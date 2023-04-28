@@ -1,6 +1,7 @@
 # Olá! Me chamo Pedro Aires
 
-Desenvolvedor Fullstack, Engenheiro Civil e ex jogador de Poker
+Desenvolvedor Web Fullstack, Engenheiro Civil e ex jogador de Poker
+email: pedrotja.engenharia@gmail.com
 
 [![Linkedin: pedrotja](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/pedrotja/)](https://www.linkedin.com/in/pedrotja/)
 [![Gmail pedrotja](https://img.shields.io/badge/e‑mail-D14836.svg?style=flat-square&logo=GMail&logoColor=white)](mailto:pedrotja.engenharia@gmail.com)
